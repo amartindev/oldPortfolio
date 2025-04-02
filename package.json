@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amartindev/amartindev.github.io.git"
+    "url": "git+https://github.com/amartindev/oldPortfolio.git"
   },
   "keywords": [],
   "author": "Antonio Martin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/amartindev/amartindev.github.io/issues"
+    "url": "https://github.com/oldPortfolio/amartindev.github.io/issues"
   },
-  "homepage": "https://github.com/amartindev/amartindev.github.io#readme",
+  "homepage": "https://github.com/oldPortfolio/amartindev.github.io#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^8.0.0",
