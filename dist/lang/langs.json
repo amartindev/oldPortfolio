@@ -1,0 +1,77 @@
+{
+    "eng": [
+        {
+        "profession": "Web Developer",
+        "hero-title": "Hello",
+        "hero-contain": "I am a constantly evolving web developer, currently following a Full-Stack developer roadmap to stay ahead of the curve in the industry. Check out my profile, projects and skills to learn more about my experience and commitment to success. Let's talk!",
+        "about-title": "About me",
+        "about-text": "I'm a web developer with a background in HTML, CSS, JavaScript, PHP, SQL, and Python, and skills in React, Bootstrap, Gulp, Git, GitHub, and MySQL. I am a continuous learner, analytical and detailed thinker, creative, organized and rigorous. I have effective communication and teamwork skills, and I strive to maintain high standards of quality and excellence in my work.",
+        "about-skill-title": "Skills",
+        "projects-title": "Projects",
+        "projects-text": "I invite you to learn about some of my projects, where you can see my experience in web development and the technologies I master. Each project represents a challenge for me and in them I have applied my skills to create innovative and effective solutions. I hope you like them!",
+        "project-1-text": "An interactive experience to explore our solar system.",
+        "project-2-text": "Online fashion store with shopping cart, built in React and Fake API Store.",
+        "project-3-text": "Responsive website for real estate project",
+        "project-4-text": "Rock and Electronic Music Festival page with photo gallery.",
+        "project-5-text": "Responsive webpage of a hamburger shop with functional shopping cart.",
+        "project-6-text": "Responsive site with customizable layout options, including light/dark mode and 8-bit mode. With support for multiple languages.",
+        "project-7-text": "Blog for coffee lovers with tips and courses.",
+        "project-8-text": "Landing H&S",
+        "project-9-text": "Single Page Application of Studio Ghibli movies with JSON file.",
+        "project-10-text": "Interactive website created with React, Vite, and enhanced with animations using libraries such as GSAP and Anime.js. This project aims to showcase various animations with scroll effects and activation through mouse movement, providing a unique and immersive experience inspired by the world of video games.",
+        "project-11-text": "Landing page for apartment and house finishing company.",
+        "project-12-text": "This is a simple Tic Tac Toe game built using React. It offers two modes of gameplay: Classic and Infinite. In Classic mode, players take turns marking squares in a 3x3 grid, aiming to achieve a row, column, or diagonal of their symbol (either 'X' or 'O'). In Infinite mode, The game only allows you to have a maximum of 3 marks, the first one is removed when you put a new one.",
+        "contact-title": "Contact"
+        }
+    ],
+    "esp": [
+        {
+        "profession": "Desarrollador Web",
+        "hero-title": "Hola",
+        "hero-contain": "Soy un desarrollador web en constante evolución, actualmente siguiendo una hoja de ruta de desarrollador Full-Stack para estar a la vanguardia en la industria. Revisa mi perfil, proyectos y habilidades para conocer más sobre mi experiencia y compromiso con el éxito. ¡Hablemos!",
+        "about-title": "Sobre mi",
+        "about-text": "Soy un desarrollador web con experiencia en HTML, CSS, JavaScript, PHP, SQL y Python, y habilidades en React, Bootstrap, Gulp, Git, GitHub y MySQL. Soy un aprendiz continuo, pensador analítico y detallista, creativo, organizado y riguroso. Tengo habilidades efectivas de comunicación y trabajo en equipo, y me esfuerzo por mantener altos estándares de calidad y excelencia en mi trabajo.",
+        "about-skill-title": "Mis Habilidades",
+        "projects-title": "Proyectos",
+        "projects-text": "Te invito a conocer algunos de mis proyectos, donde podrás ver mi experiencia en desarrollo web y las tecnologías que domino. Cada proyecto representa un reto para mí y en ellos he aplicado mis habilidades para crear soluciones innovadoras y efectivas. ¡Espero que te gusten!",
+        "project-1-text": "Una experiencia interactiva para explorar nuestro sistema solar.",
+        "project-2-text": "Tienda de moda en línea con carrito de compras, creada en React y Fake API Store. ",
+        "project-3-text": "Página web responsiva de proyecto inmobiliario",
+        "project-4-text": "Página de Festival de Rock y música Electronica con galería de fotos.",
+        "project-5-text": "Página web responsiva de una tienda de hamburguesas con carrito de compras funcional.",
+        "project-6-text": "Sitio responsivo con opciones de diseño personalizables, incluyendo modo de luz/oscuridad y modo de 8 bits. Con soporte para múltiples idiomas.",
+        "project-7-text": "Blog para amantes del café con consejos y cursos.",
+        "project-8-text": "Landing H&S",
+        "project-9-text": "Single Page Aplication de peliculas de Studio Ghibli con archivo JSON.",
+        "project-10-text": "Web interactiva creada con React, Vite, y potenciada con animaciones utilizando librerías como GSAP y Anime.js. Este proyecto tiene como objetivo mostrar diversas animaciones con efectos de scroll y activación mediante el movimiento del mouse, proporcionando una experiencia única e inmersiva inspirada en el mundo de los videojuegos.",
+        "project-11-text": "Landing page para empresa de acabados de apartamentos y casas.",
+        "project-12-text": "Este es un simple juego de Tic Tac Toe construido usando React. Ofrece dos modos de juego: Clásico e Infinito. En el modo Clásico, los jugadores se turnan para marcar casillas en una cuadrícula de 3x3, con el objetivo de lograr una fila, columna o diagonal de su símbolo (ya sea 'X' u 'O'). En el modo Infinito, el juego solo te permite tener un máximo de 3 marcas, la primera se elimina cuando colocas una nueva.",
+        "contact-title": "Contacto"
+        }
+    ],
+    "fr": [
+        {
+        "profession": "Développeur Web",
+        "hero-title": "Salut",
+        "hero-contain": "Je suis un développeur Web en constante évolution, suivant actuellement une feuille de route de développeur Full-Stack pour garder une longueur d'avance dans l'industrie. Consultez mon profil, mes projets et mes compétences pour en savoir plus sur mon expérience et mon engagement à réussir. Parlons!",
+        "about-title": "Sur moi",
+        "about-text": "Je suis un développeur Web avec une formation en HTML, CSS, JavaScript, PHP, SQL et Python, et des compétences en React, Bootstrap, Gulp, Git, GitHub et MySQL. Je suis un apprenant continu, un penseur analytique et détaillé, créatif, organisé et rigoureux. J'ai des compétences efficaces en communication et en travail d'équipe, et je m'efforce de maintenir des normes élevées de qualité et d'excellence dans mon travail.",
+        "about-skill-title": "Mes compétences",
+        "projects-title": "Projets",
+        "projects-text": "Je vous invite à découvrir quelques-uns de mes projets, où vous pourrez voir mon expérience en développement web et les technologies que je maîtrise. Chaque projet représente un défi pour moi et j'y ai appliqué mes compétences pour créer des solutions innovantes et efficaces. J'espère que tu les aimeras!",
+        "project-1-text": "Une expérience interactive pour explorer notre système solaire.",
+        "project-2-text": "Boutique de mode en ligne avec panier d'achat, construite en React et Fake API Store.",
+        "project-3-text": "Page Web avec design adaptatif d'un projet immobilier",
+        "project-4-text": "Page du festival de musique rock et électronique avec galerie de photos.",
+        "project-5-text": "Page Web avec design adaptatif d'un magasin de hamburgers avec un panier fonctionnel.",
+        "project-6-text": "Site au design responsive avec des options de mise en page personnalisables, notamment le mode clair/sombre et le mode 8 bits. Avec prise en charge de plusieurs langues.",
+        "project-7-text": "Blog pour les amateurs de café avec des conseils et des cours.",
+        "project-8-text": "Landing H&S",
+        "project-9-text": "Application monopage de films Studio Ghibli avec fichier JSON.",
+        "project-10-text": "Site web interactif créé avec React, Vite, et amélioré avec des animations utilisant des bibliothèques telles que GSAP et Anime.js. Ce projet vise à présenter diverses animations avec des effets de défilement et d'activation grâce au mouvement de la souris, offrant une expérience unique et immersive inspirée du monde des jeux vidéo.",
+        "project-11-text": "Landing page pour une entreprise de finition d'appartements et de maisons.",
+        "project-12-text": "Il s'agit d'un simple jeu de Tic Tac Toe construit en utilisant React. Il propose deux modes de jeu : Classique et Infini. En mode Classique, les joueurs se relaient pour marquer les cases dans une grille 3x3, en visant à réaliser une rangée, une colonne ou une diagonale de leur symbole (soit 'X' soit 'O'). En mode Infini, le jeu ne vous permet que d'avoir un maximum de 3 marques, la première étant supprimée lorsque vous en placez une nouvelle.",
+        "contact-title": "Contact"
+        }
+    ]
+}

@@ -9,23 +9,51 @@ function css(done) {
         .pipe(plumber())
         .pipe(sass({ outputStyle: 'expanded' }))
         .pipe(autoprefixer({ cascade: false }))
-        .pipe(dest('dist/css'));
+        .pipe(dest('dist/css'));  // Guardar en dist/css
     done();
 }
 
-
+// Copiar archivos estáticos (como imágenes y fuentes) a "dist/assets"
 function copyAssets(done) {
     src('assets/**/*')
-        .pipe(dest('dist/assets'));
+        .pipe(dest('dist/assets'));  // Copiar a dist/assets
     done();
 }
 
+// Copiar el archivo index.html a "dist"
+function copyHtml(done) {
+    src('index.html')  // Copiar el archivo index.html
+        .pipe(dest('dist/'));  // Copiarlo a la raíz de dist
+    done();
+}
 
+// Copiar archivos JavaScript a "dist/js"
+function copyJs(done) {
+    src('js/**/*')  // Ajusta según la ubicación de tus archivos JS
+        .pipe(dest('dist/js'));  // Copiar a dist/js
+    done();
+}
+
+// Copiar imágenes a "dist/img"
+function copyImages(done) {
+    src('img/**/*')  // Ajusta según la ubicación de tus imágenes
+        .pipe(dest('dist/img'));  // Copiar a dist/img
+    done();
+}
+
+// Copiar archivos de idioma a "dist/lang" (si es necesario)
+function copyLang(done) {
+    src('lang/**/*')  // Ajusta según la ubicación de tus archivos de idioma
+        .pipe(dest('dist/lang'));  // Copiar a dist/lang
+    done();
+}
+
+// Observar cambios en SASS
 function dev(done) {
     watch('sass/**/*.scss', css);
     done();
 }
 
-
-exports.build = series(css, copyAssets);
+// Definir tareas principales
+exports.build = series(css, copyAssets, copyHtml, copyJs, copyImages, copyLang);  // Incluye todas las tareas
 exports.dev = parallel(css);
