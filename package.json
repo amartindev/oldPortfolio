@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "gulp build",
     "sass": "sass --watch sass:css"
   },
   "repository": {
